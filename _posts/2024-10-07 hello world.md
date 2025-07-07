@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hello world!"
-date:   Mon, 7 Oct 2024 11:08:09 -0500
+date:   2024-10-07 11:08:09 -0500
 tags: [fiction]
 ---
 hello friends!
