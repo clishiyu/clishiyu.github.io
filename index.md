@@ -1,24 +1,19 @@
 ---
 layout: default
-title: Hello
+title: coco's corner
 ---
 
 
-## An easy to use, minimal, text focused Jekyll theme
+## coco's corner
 
-[Bear Blog](https://bearblog.dev/) is *"a blogging platform where words matter most"*. 
+During my exchange year at the University of Chicago, I started a mailing list to document my year. This was ideal as I had a lot to say this year, I am also famously bad at keeping up with my friends, and more modern social media platforms are genuinely a plague on my mind. It was never that serious, but in the end I am quite happy with how it turned out. 
 
-This is a port of it's theme to Jekyll, with some tweaks. So you can use GitHub Pages to host your blog while getting the same awesome Bear Blog feels.
+I have been considering for a long time now how to best preserve this -- a Substack seemed too presumptuous. This is the next best thing and allows me to practice coding at the same time. I wonder too what will be the future of it. I have made lists of people I would like to add to the mailing list: season 2, yet I've not gotten around to any of it, and instead spend my days drooling away... 
 
-**Stop worrying about the style, focus on your writing.**
+Now after an incredibly difficult year, and a busy month of travelling, I find myself finally getting around to this project. A big thank you to all my friends, old and new. Hello from Germany.
 
-- Looks great on *any* device
-- Tiny, optimized, and awesome pages
-- No trackers, ads, or scripts, *did I mention minimal already?*
-- Auto light and dark themes
-- Tag support, to filter blog pages
-- Quick, *15 minute* setup
-- Gallery view for your images
-- Code highlighting
+And as always -- 
+cheers,
+Coco
 
-Have a look around, this website is already themed with **jekyllBear**. If you like it, head over to the GitHub [repository](https://github.com/knhash/jekyllBear) for installation instructions.
+## TEST WHY NOT WORK
