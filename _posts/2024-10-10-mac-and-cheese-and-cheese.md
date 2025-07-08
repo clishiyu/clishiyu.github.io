@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "mac and cheese and cheese'
+title:  "mac and cheese and cheese"
 date:   2024-10-10 20:11:07 +0000
 tags: [general]
 ---
