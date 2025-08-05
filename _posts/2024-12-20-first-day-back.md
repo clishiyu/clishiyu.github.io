@@ -21,3 +21,10 @@ coco
 WOW new abode!!!!
 
 i am sushiless but hopefully that changes soon :')
+<img width="1870" height="1870" alt="image" src="https://github.com/user-attachments/assets/06760799-d5e3-4c85-a97c-959801098bc3" />
+<img width="1816" height="2420" alt="image" src="https://github.com/user-attachments/assets/7991369a-552b-462d-8912-63ee13fd80d8" />
+<img width="2000" height="924" alt="image" src="https://github.com/user-attachments/assets/5ad40528-fc07-4beb-85b4-5db11f7ddb1f" />
+<img width="2000" height="1501" alt="image" src="https://github.com/user-attachments/assets/281297fd-8595-4a6e-8346-9ca148415b4b" />
+<img width="2000" height="1501" alt="image" src="https://github.com/user-attachments/assets/7d71c7a9-8b2f-4f00-852c-362e042e95aa" />
+
+
