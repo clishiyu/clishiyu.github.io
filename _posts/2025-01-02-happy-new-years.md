@@ -11,5 +11,6 @@ Polar bear dipping is a Canadian? Vancouverite? Tradition where people go swim i
 Cheers,
 Coco
 
-![alt text](image.png)
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/c4e6ef13-3fca-449e-a29a-99bc1fe98ab6)
+![image](https://github.com/user-attachments/assets/1920105e-99ec-4fe1-8985-c14bdb1c07f0)
+
