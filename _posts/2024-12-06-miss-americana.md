@@ -31,8 +31,8 @@ karin
 
 Get Outlook for iOS
 
-![image](https://github.com/user-attachments/assets/1cdff026-86fe-4173-aa42-8442a16bfec0")
-![image]("https://github.com/user-attachments/assets/04602ae0-47f2-4e5a-ad21-2028b8e0c778")
+![image](https://github.com/user-attachments/assets/1cdff026-86fe-4173-aa42-8442a16bfec0)
+![image](https://github.com/user-attachments/assets/04602ae0-47f2-4e5a-ad21-2028b8e0c778)
 
 
 #### Stanford Guo
