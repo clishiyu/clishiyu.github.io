@@ -36,8 +36,5 @@ i was trying to bike but i ate shit instead. and now the bike is put away in the
 cheers,
 coco
 
-<img width="1816" height="2420" alt="image" src="https://github.com/user-attachments/assets/7dbc2a38-eaad-4f63-9e11-4b1738d6cdee" />
-
-<img width="1125" height="2436" alt="image" src="https://github.com/user-attachments/assets/a0488a34-de36-43f2-8cfe-1e56e99be106" />
-
-
+![image](https://github.com/user-attachments/assets/7dbc2a38-eaad-4f63-9e11-4b1738d6cdee)
+![image](https://github.com/user-attachments/assets/a0488a34-de36-43f2-8cfe-1e56e99be106)
