@@ -17,4 +17,5 @@ MSci Physics |  King's College London
 Year Abroad | University of Chicago
 
 #### Julien Jeagal
-<img width="1169" height="855" alt="image" src="https://github.com/user-attachments/assets/f6ce4a78-2d82-4a99-bf35-bc1f2d47e821" />
+
+![image](https://github.com/user-attachments/assets/f6ce4a78-2d82-4a99-bf35-bc1f2d47e821)

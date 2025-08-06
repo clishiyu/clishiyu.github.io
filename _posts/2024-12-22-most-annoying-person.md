@@ -10,8 +10,9 @@ like i use 0% of any of this stuff on the daily and it would genuinely not make 
 
 cheers and happy holidays,
 coco
-<img width="1816" height="2420" alt="image" src="https://github.com/user-attachments/assets/fe409de2-eea7-441c-ae39-bd5f7449f493" />
-<img width="1242" height="2208" alt="image" src="https://github.com/user-attachments/assets/ef5166b4-e897-4e96-87d0-629fae2f0e2e" />
+![image](https://github.com/user-attachments/assets/fe409de2-eea7-441c-ae39-bd5f7449f493)
+![image](https://github.com/user-attachments/assets/ef5166b4-e897-4e96-87d0-629fae2f0e2e)
+
 
 #### Lucas Hui
 beanor

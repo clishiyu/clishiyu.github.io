@@ -8,9 +8,10 @@ long time no see! i'm keeping well. send your wrapped!
 
 xoxo
 coco
-<img width="2000" height="1501" alt="image" src="https://github.com/user-attachments/assets/a06e9887-142a-42a7-bf17-5e6e0314c065" />
+![image](https://github.com/user-attachments/assets/a06e9887-142a-42a7-bf17-5e6e0314c065)
 
-<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/d18aa1d0-dfd0-40fe-a313-8a982ca4f921" />
+![image](https://github.com/user-attachments/assets/d18aa1d0-dfd0-40fe-a313-8a982ca4f921)
+
 
 #### Nastasia Wittig
 im dead
@@ -30,9 +31,9 @@ karin
 
 Get Outlook for iOS
 
-<img width="900" height="1143" alt="image" src="https://github.com/user-attachments/assets/1cdff026-86fe-4173-aa42-8442a16bfec0" />
+![image](https://github.com/user-attachments/assets/1cdff026-86fe-4173-aa42-8442a16bfec0")
+![image]("https://github.com/user-attachments/assets/04602ae0-47f2-4e5a-ad21-2028b8e0c778")
 
-<img width="1170" height="2080" alt="image" src="https://github.com/user-attachments/assets/04602ae0-47f2-4e5a-ad21-2028b8e0c778" />
 
 #### Stanford Guo
 dearest coco,
