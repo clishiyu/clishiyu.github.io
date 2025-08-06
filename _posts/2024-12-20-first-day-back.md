@@ -2,7 +2,7 @@
 layout: post
 title:  "first day back"
 date:   2024-12-20 06:23:19 +0000
-tags: 
+tags: [general]
 ---
 good evening my loves. was going to write a whole thing but i'm sleepy~
 
