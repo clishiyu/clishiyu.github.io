@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "hello world!"
-date:   2024-10-07 11:08:09 -0500
-tags: 
+title:  "double text"
+date:   2025-02-07 01:48:24 +0000
+tags: [general]
 ---
-text
+spring break is going to be vancouver from march 16th-23rd!! exchange friends are coming with!!! aha!
+
+coco
