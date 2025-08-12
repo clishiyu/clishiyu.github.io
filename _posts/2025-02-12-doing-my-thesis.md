@@ -19,6 +19,8 @@ Coco
 Shiyu (Coco) Li | ID: 12459336
 MSci Physics |  King's College London
 Year Abroad | University of Chicago
+![image](https://github.com/user-attachments/assets/f3ec1537-cbfd-4753-bcbd-009107f3471e)
+![image](https://github.com/user-attachments/assets/7a686e6a-72f5-4b0a-8556-a464c46e932b)
 
 ### Lucas Hui
 DOUBE COCO SPECIAL!
