@@ -7,6 +7,8 @@ tags: [general]
 狗改不了吃屎
 
 c
+![image](https://github.com/user-attachments/assets/6c5abdef-2b86-4232-937c-bc02ba54fe3c)
+
 
 ### Lucas Hui
 it should be what soes rhis mena
