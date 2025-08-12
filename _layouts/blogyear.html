@@ -15,7 +15,7 @@ layout: compress
 
     <ul class="blog-posts">
         {% for post in site.posts %}
-            {% if post.date | date: "%Y" == page.year %}
+            {% if post.date | date: "%Y" | strip == page.year | strip %}
                 {% assign post_list = post_list | push: post %}
                 {% for tag in post.tags %}
                     {% assign tag_list = tag_list | push: tag %}
