@@ -17,6 +17,8 @@ MSci Physics |  King's College London
 Year Abroad | University of Chicago
 
 ### Coco Li
+<img width="898" height="426" alt="image" src=" />
+![image](https://github.com/user-attachments/assets/f945750c-2f08-4279-bd1d-496bf38d01ee)
 My lab prof is replying at 2223 and apologizing for the delayed response......
 isighhhh
 
