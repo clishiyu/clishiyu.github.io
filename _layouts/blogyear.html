@@ -10,12 +10,15 @@ layout: compress
 
     {{ content }}
 
+    {% assign post_list = '' | split: ',' %}
+    {% assign tag_list = '' | split: ',' %}
+
     <ul class="blog-posts">
-        {% assign post_list = '' | split: ',' %}
         {% for post in site.posts %}
             {% if post.date | date: "%Y" == page.year %}
+                {% assign post_list = post_list | push: post %}
                 {% for tag in post.tags %}
-                    {% assign post_list = post_list | push: post %}
+                    {% assign tag_list = tag_list | push: tag %}
                 {% endfor %}
             {% endif %}
         {% endfor %}
@@ -38,9 +41,8 @@ layout: compress
     </ul>
 
     <small>
-        {% for tag in site.tags %}
-            {% assign tag_slug = tag | first %}
-            {% assign no_of_posts = tag | last | size %}
+        {% assign unique_tags = tag_list | uniq %}
+        {% for tag_slug in unique_tags %}
             <a href="{{ 'tagged/' | relative_url }}{{ tag_slug }}" title="See all posts by {{ tag_slug }} tag">
                 #{{ tag_slug }}
             </a>
